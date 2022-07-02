@@ -2,3 +2,5 @@
 ## task info
 here we practise using UISlider and adding some functions to it (like "generateing random nums") and then using UITextField whe get ("average","max","min")
 from numbers that UISlider provided
+
+![alt text](https://i.ibb.co/cJfrwYh/task-11-domenstration.png)
